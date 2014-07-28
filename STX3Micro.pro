@@ -2,12 +2,12 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/petmar/Documents/Firmware/STX3_Breakout/STX3Micro.brd
 
-Start at      : 05:02:17 (7/28/14)
-End at        : 05:02:17 (7/28/14)
+Start at      : 06:24:45 (7/28/14)
+End at        : 06:24:45 (7/28/14)
 Elapsed time  : 00:00:00
 
-Signals       :    17   RoutingGrid: 50 mil  Layers: 2
-Connections   :    39   predefined:  39 ( 16 Vias )
+Signals       :    18   RoutingGrid: 50 mil  Layers: 2
+Connections   :    41   predefined:  39 ( 15 Vias )
 
 Router memory :   15456
 
@@ -18,8 +18,8 @@ Number of Ripups  :         0         0         0         0         0
 max. Level        :         0         0         0         0         0
 max. Total        :         0         0         0         0         0
 
-Routed            :         0         0         0         0         0
-Vias              :         0         0         0         0         0
+Routed            :         2         2         2         2         2
+Vias              :         6         3         3         3         3
 Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
