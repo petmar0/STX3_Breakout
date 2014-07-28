@@ -1249,6 +1249,33 @@ www.irf.com&lt;p&gt;
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,109.22,124.46,U1,VCC,N$4,,,"/>
+<approved hash="110,1,104.14,116.84,N$4,N$12,,,,"/>
+<approved hash="110,1,104.14,116.84,N$4,N$12,,,,"/>
+<approved hash="110,1,93.98,106.68,N$12,N$6,,,,"/>
+<approved hash="110,1,132.08,93.98,N$14,N$4,,,,"/>
+<approved hash="110,1,127,93.98,N$14,N$1,,,,"/>
+<approved hash="110,1,129.54,93.98,N$14,N$5,,,,"/>
+<approved hash="110,1,127,93.98,N$14,N$1,,,,"/>
+<approved hash="110,1,127,93.98,N$1,N$14,,,,"/>
+<approved hash="110,1,127,93.98,N$1,N$14,,,,"/>
+<approved hash="111,1,76.2,96.52,N$14,,,,,"/>
+<approved hash="111,1,76.2,106.68,N$14,,,,,"/>
+<approved hash="111,1,76.2,104.14,N$14,,,,,"/>
+<approved hash="111,1,76.2,101.6,N$14,,,,,"/>
+<approved hash="111,1,76.2,99.06,N$14,,,,,"/>
+<approved hash="111,1,134.62,93.98,N$14,,,,,"/>
+<approved hash="111,1,132.08,93.98,N$14,,,,,"/>
+<approved hash="111,1,129.54,93.98,N$14,,,,,"/>
+<approved hash="111,1,127,93.98,N$14,,,,,"/>
+<approved hash="111,1,127,93.98,N$14,,,,,"/>
+<approved hash="113,1,96.5623,100.135,SV2,,,,,"/>
+<approved hash="113,1,62.23,98.425,U$1,,,,,"/>
+<approved hash="113,1,93.876,84.986,FRAME1,,,,,"/>
+<approved hash="113,1,98.9288,124.697,JP1,,,,,"/>
+<approved hash="113,1,129.345,91.3977,SV1,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
